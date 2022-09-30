@@ -23,3 +23,6 @@
       your accounts and data. You always choose what to share and what to keep private.
 
 6. transaction
+7. blockchain
+8. smart contracts
+9. solidity
