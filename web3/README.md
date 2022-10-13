@@ -1,4 +1,6 @@
-# web3
+# `web3 study guide`
+
+## [1. What is Ethereum](https://github.com/FahimMontasir/microservices_n_web3/tree/master/web3/docs/1.what-is-ethereum/what-is-ethereum.md)
 
 1. `Ethereum`:
    The ultimate smart contract and decentralized application platform
