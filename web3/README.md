@@ -1,8 +1,18 @@
-# `web3 study guide`
+# [`web3 study guide`](https://docs.google.com/document/d/1wPUHKtZV960Lua1wJW3NlfJcBv1HT8o190E228WJmiU/edit?usp=sharing)
 
 ## [1. What is Ethereum](https://github.com/FahimMontasir/microservices_n_web3/tree/master/web3/docs/1.what-is-ethereum/what-is-ethereum.md)
 
 ## [2. Smart contracts with Solidity ](https://github.com/FahimMontasir/microservices_n_web3/tree/master/web3/docs/2.smart-contracts-with-sol/sc-with-sol.md)
+
+## [3. Advance smart contracts ](https://github.com/FahimMontasir/microservices_n_web3/tree/master/web3/docs/3.advance_smart_contracts/advance_smart_contracts.md)
+
+## [4. Building Interactive FrontEnds ](https://github.com/FahimMontasir/microservices_n_web3/tree/master/web3/docs/4.Building_Interactive_FrontEnds/4.Building_Interactive_FrontEnds.md)
+
+## [5. Real Projects with Ethereum ](https://github.com/FahimMontasir/microservices_n_web3/tree/master/web3/docs/5.Real_Projects_with_Ethereum/5.Real_Projects_with_Ethereum.md)
+
+## [6. Ethereum Project Infrastructure ](https://github.com/FahimMontasir/microservices_n_web3/tree/master/web3/docs/6.Ethereum_Project_Infrastructure/6.Ethereum_Project_Infrastructure.md)
+
+## [7. Advance multipage frontend ](https://github.com/FahimMontasir/microservices_n_web3/tree/master/web3/docs/7.advance_multipage_frontend/7.advance_multipage_frontend.md)
 
 1. `Ethereum`:
    The ultimate smart contract and decentralized application platform
