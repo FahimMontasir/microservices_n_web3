@@ -1,5 +1,5 @@
 {
-  "name": "inbox",
+  "name": "updated-inbox",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "@truffle/hdwallet-provider": "^2.1.0",
     "ganache-cli": "^6.12.2",
     "mocha": "^10.1.0",
-    "solc": "^0.4.17",
+    "solc": "^0.8.17",
     "web3": "^1.8.0"
   }
 }

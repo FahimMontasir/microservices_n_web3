@@ -2,6 +2,8 @@
 
 ## [1. What is Ethereum](https://github.com/FahimMontasir/microservices_n_web3/tree/master/web3/docs/1.what-is-ethereum/what-is-ethereum.md)
 
+## [2. Smart contracts with Solidity ](https://github.com/FahimMontasir/microservices_n_web3/tree/master/web3/docs/2.smart-contracts-with-sol/sc-with-sol.md)
+
 1. `Ethereum`:
    The ultimate smart contract and decentralized application platform
 2. What is `ethereum`? Ethereum is a decentralized, open-source blockchain with
@@ -29,3 +31,6 @@
 8. smart contracts
 9. solidity
 10. remix online editor
+11. solc package (solidity compiler)
+12. testing (mocha, ganache-cli)
+13. web3
