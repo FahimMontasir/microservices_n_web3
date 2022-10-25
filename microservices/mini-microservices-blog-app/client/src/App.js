@@ -2,7 +2,7 @@ import React from "react";
 import CreatePost from "./CreatePost";
 import PostList from "./PostList";
 
-export default () => {
+const App = () => {
   return (
     <div>
       <CreatePost />
@@ -11,3 +11,5 @@ export default () => {
     </div>
   );
 };
+
+export default App;
